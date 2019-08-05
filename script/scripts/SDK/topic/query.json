@@ -1,0 +1,37 @@
+//GENERATE_START
+{
+	"id":null,
+	"channel":null,
+	"tranCode":"SelectAllTopic",
+	"type":null,
+	"dataType":null,
+	"tranDate":null,
+	"traceNo":null,
+	"retCode":null,
+	"debug":null,
+	"userid":"Org1Admin",
+	"orgid":"Org1",
+	"hasGeneric":false,
+	"errors":null,
+	"args":[
+	{
+	"name":"channelName",
+	"value":"mychannel"
+	},
+	{
+	"name":"chaincodeName",
+	"value":"example"
+	},
+	{
+	"name":"functionName",
+	"value":"Query"
+	},
+	{
+	"name":"hasFile",
+	"value":"false"
+	}
+	],
+	"data":[],
+	"retObject":null
+}
+//GENERATE_END

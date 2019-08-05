@@ -1,0 +1,1 @@
+INSERT INTO auth_user (id,account,email,password,role_code,active, created_at, updated_at) values ('authusr-b22eb9cf742442448aae0d431dc51117', 'superadmin', 'superadmin@mingchaintech.com','$2a$10$kJZ1C3Go.qKAZxsPL3KTp.bfLZwPl5776d/imu3UZ/tubQ1B6T5g2','SUPERADMIN',1,'2019-07-09 17:53:00','2019-07-09 17:53:00');

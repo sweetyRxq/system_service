@@ -1,0 +1,1 @@
+INSERT INTO cfg_chaincode_entity (name,alias) VALUES ('COMMENTLOG','评论详细日志');INSERT INTO cfg_chaincode_entity (name,alias) VALUES ('TOPIC','论坛主题');
